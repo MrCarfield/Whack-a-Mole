@@ -1,0 +1,19 @@
+			  大小			地址:
+hammer_i(一共7个,分帧进行排序): 400*400			  ".\resources\image\hammer_i.png"
+hammer_i_mask(一共7个,分帧进行排序): 400*400			  ".\resources\image\hammer_i_mask.png"
+mouse: 250*250			  ".\resources\image\mouse.png"
+mouse_mask_image: 250*250			  ".\resources\image\mouse_mask_image.png"
+logo:1200*1200				  ".\resources\image\logo.png"
+logo_mask_image:1200*1200				  ".\resources\image\logo_mask_image.png"
+end_page:1328*1328  		  ".\resources\image\end_page.png"
+bkimage:1328*1328             ".\resources\image\bkimage.png"
+loading_screen:1024*1024           ".\resources\image\loading_screen.png"
+mouse_pole:340*235                   ".\resources\image\mouse_pole.png"
+mouse_pole_mask_image:340*235                   ".\resources\image\mouse_pole_mask_image.png"
+rule_page:1024*1024    		   ".\resources\image\rule_page.png"
+bloom_bouquet:			   "".\resources\image\.bloom_bouquet"
+			大小(用x,y的坐标表示)
+	bloom_bouquet[i]=每个横坐标占据280,纵坐标占据280,从图片的0坐标点开始,一共9个烟花束
+firework_bomb::
+			大小(用x,y坐标来表示)
+	firework_bomb[i]=每个横坐标占据20,纵坐标占据50,从坐标的圆点开始,一共10个烟花弹

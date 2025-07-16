@@ -1,0 +1,7 @@
+					地址:
+bk_music:	     ".\resources\music\bk_music.mp3"
+gameover:    ".\resources\music\gameover.mp3"
+gamestart:    ".\resources\music\gamestart.mp3"
+mouse_show:".\resources\music\mouse_show.mp3"_
+punch:           ".\resources\music\punch.mp3"
+victory_music:"".\resources\music\victory_music.mp3""
